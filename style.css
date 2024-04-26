@@ -1,0 +1,237 @@
+
+body,
+ul {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f8f8f8;
+  color: #333;
+  line-height: 1.6;
+}
+
+.container {
+  width: 80%;
+  margin: auto;
+}
+
+nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+  
+nav ul li {
+    display: inline;
+}
+  
+nav ul li a {
+    display: inline-block;
+    padding: 10px 20px;
+    text-decoration: none;
+    color: #333;
+}
+  
+nav ul li a:hover {
+    background-color: #f0f0f0;
+}
+  
+a.button {
+    background-color: goldenrod;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    transition-duration: 0.4s;
+    cursor: pointer;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); 
+}
+
+a.button:hover {
+    background-color: pink;
+}
+
+.order-btn {
+    background-color: goldenrod;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    transition-duration: 0.4s;
+    cursor: pointer;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); 
+}
+
+.order-btn:hover {
+    background-color: pink;
+}
+
+header {
+    text-align: center;
+    background-color: #f0f0f0;
+    padding: 150px;
+    background-image: url(images/parfulbgtwo.jpeg);
+}
+  
+header h1 {
+    font-size: 36px;
+    color: #fff;
+    font-weight: bold;
+    margin-bottom: 20px;
+}
+  
+header p {
+    font-size: 18px;
+    color: #fff;
+    margin-bottom: 30px;
+}
+  
+.button {
+    background-color: #666CAe50;;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    transition-duration: 0.4s;
+    cursor: pointer;
+}
+  
+.button:hover {
+    background-color: #666CAe50;;
+}
+
+.container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 20px;
+}
+  
+#home {
+    text-align: center;
+    padding: 100px 0;
+}
+  
+.hero {
+    background-color: #f0f0f0;
+    padding: 40px;
+    border-radius: 8px;
+}
+  
+.hero h1 {
+    font-size: 36px;
+    margin-bottom: 20px;
+}
+  
+.hero p {
+    font-size: 18px;
+    margin-bottom: 30px;
+}
+  
+.button {
+    background-color: #666CAe50;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    transition-duration: 0.4s;
+    cursor: pointer;
+}
+  
+.button:hover {
+    background-color: #666CAe50;9;
+}
+
+.container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 20px;
+}
+  
+.card-section {
+    text-align: center;
+    padding: 50px 0;
+}
+  
+.cards {
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+  
+.card {
+    width: 300px;
+    background-color: #f0f0f0;
+    padding: 20px;
+    border-radius: 8px;
+    margin-bottom: 20px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+  
+.card img {
+    width: 100%;
+    border-radius: 8px;
+    margin-bottom: 20px;
+}
+  
+.card h3 {
+    font-size: 20px;
+    margin-bottom: 10px;
+}
+  
+.card p {
+    font-size: 16px;
+    color: #666;
+}
+  
+/* Footer styles */
+footer {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 40px 0;
+  }
+  
+  .container {
+    max-width: 1200px;
+    margin: 0 auto;
+  }
+  
+  footer p {
+    margin: 0;
+    font-size: 18px;
+    margin-bottom: 20px;
+  }
+  
+  .button {
+    background-color: #666CAe50;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    transition-duration: 0.4s;
+    cursor: pointer;
+  }
+  
+  .button:hover {
+    background-color: #666CAe50;
+  }  
